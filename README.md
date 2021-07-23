@@ -1,4 +1,4 @@
-# TargetIsPlatinue5
+# TargetIsPlatinum5
 
 <h3>자바</h3>
 
