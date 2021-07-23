@@ -1,5 +1,4 @@
 # TargetIsPlatinue5
-<br>
 
 <h3>자바</h3>
 
