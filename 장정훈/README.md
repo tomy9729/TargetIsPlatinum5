@@ -12,7 +12,7 @@ README [Jang_JungHun](https://github.com/Doppio1101)
 
 > Start 0716
 
-- Week 3 : 0723 now tier  ->  `Bronze 1`
+- Week 4 : 0729 now tier  ->  `Silver 5` <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="30" height="30"/>
 
-
+- Week 3 : 0723 now tier  ->  `Bronze 1` <img src="https://static.solved.ac/tier_small/5.svg" width="30" height="30"/>
 
