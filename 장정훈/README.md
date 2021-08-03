@@ -11,6 +11,7 @@ README [Jang_JungHun](https://github.com/Doppio1101)
 #### BAEKJOON
 
 > Start 0716
+> Step By Step
 
 - Week 4 : 0804 now tier  ->  `Silver 4` <img src="https://static.solved.ac/tier_small/7.svg" width="30" height="30"/>
 
