@@ -40,7 +40,7 @@ public class BJ_17478 {
 	public static String printV(int x) {
 		String str = "";
 		if(x>0) {
-			str = "----"+printV(x-1);
+			str = "____"+printV(x-1);
 		}
 		return str;
 	}
