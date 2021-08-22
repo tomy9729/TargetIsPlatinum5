@@ -33,17 +33,17 @@ public class 퇴사_14501 {
 	}
     
     public static void plan(int day) {
-    	if(day==N+1) {
-    		answer = Math.max(answer, p);
+    	if(day==N+1) { //날짜 넘기면 종료
+    		answer = Math.max(answer, p);//현재 금액과 최댓값 중 더 큰값으로 최댓값 갱신
     		return;
     	}
-    	for(int i=day;i<=N;i++) {
-    		if(i+T[i]-1<=N) {
+    	for(int i=day;i<=N;i++) { //지금 날짜부터 마지막 날까지
+    		if(i+T[i]-1<=N) { //상담이 가능하면 상담 수행
     			p+=P[i];
     			plan(i+T[i]);
     			p-=P[i];
     		}
-    		if(i<=N)plan(i+1);
+    		if(i<=N)plan(i+1);//상담을 하지 않는 경우
     	}
     }
 }
